@@ -1,0 +1,11 @@
+{
+  "name": "threejs-controls",
+  "description": "Controls for Three.js",
+  "homepage": "http://threejs.org/examples",
+  "author": "Lloyd Henning <eldog@foxdogstudios.com> (http://foxdogstudios,com)",
+  "version": "0.0.1",
+  "git": "https://github.com/foxdog-studios/meteor-threejs-controls.git",
+  "packages": {
+    "three.js": {}
+  }
+}
